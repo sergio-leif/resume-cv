@@ -7,3 +7,5 @@
   1. Enabled easier and faster migration of PostgreSQL and Redis databases by automating the update process, reducing upgrade times from weeks to a shorter period.
   2. Decreased the number of support calls by 80% by configuring production tools with High Availability, effectively balancing traffic between instances in case of a disaster.
   3. Accelerated the onboarding process, providing users with quick access to all the necessary tools once registered in LDAP, and sending relevant documentation links to their email.
+
+Tools:  Docker, Jenkins, Maven, Bash, AWS, Azure, Sonatype Nexus, SonarQube, Jira, GitLab, Groovy, PostgreSQL, NodeJs, Agile
