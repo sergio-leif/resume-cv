@@ -8,3 +8,5 @@
 - Standardized the release process for microservices, ensuring that all teams adhered to the same quality criteria and utilized a common Docker base image.
 - Conducted demos to communicate progress and process changes to the entire department, leading to increased team participation and collaboration in sharing new product features from Minsait.
 - Led and managed DevOps team in an Agile environment, ensuring team stability, while developing new automations
+
+Tools: Docker, Jenkins, Maven, GitHub, Bash, Kubernetes, Azure, Sonatype Nexus, SonarQube, Jira, GitLab, Groovy, Python, Jupyter, Openshift, Selenium, NodeJS, Agile, Rancher
