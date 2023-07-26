@@ -7,3 +7,5 @@
 - Achieved significant cost reductions, lowering expenses by 25% in the first year and 40% in the second year (October).
 - Successfully advocated for the team's budget during challenging times, ensuring it remained intact despite company-wide cuts.
 - Led the team's expansion to other public cloud providers, adopting Terraform for infrastructure provisioning while refining Ansible's role in configuration management
+
+Tools: Docker, Azure DevOps, Maven, GitHub, Bash, Kubernetes, Ansible, Terraform, AWS, Azure, SonarQube, Python, Prometheus, Grafana, Artifactory
